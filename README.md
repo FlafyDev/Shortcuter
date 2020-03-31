@@ -7,4 +7,5 @@ Run the `Setup.bat`
 ### Usage
 Right click on a file and then on the context menu click the "Execute Shortcuter".
 
-![Image tutorial](/Images/Image tutorial.png)
+### Image tutorial
+![Image tutorial](/Images/Image%20tutorial.png)
