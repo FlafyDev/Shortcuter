@@ -5,7 +5,7 @@ This will make any file you want searchable in the Windows search.
 Press the green button `Clone or download` and then the blue button `Download ZIP`.
 
 ### Setup
-Run the `Setup.bat`.
+Extract the zip and run the `Setup.bat`.
 
 ### Usage
 Right click on a file and then on the context menu click the "Execute Shortcuter".
