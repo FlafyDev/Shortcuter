@@ -13,7 +13,7 @@ Right click on a file and then on the context menu click the "Execute Shortcuter
 ## Note!
 * Extract the files from the zip before you run any of them.
 * Don't delete the files after you run the `Setup.bat`.
-* If you want to delete the Shortcuter, remove the key: `Computer\HKEY_CLASSES_ROOT\*\shell\Shortcuter` Though your Registry Editor.
+* If you want to delete the Shortcuter, remove the key: `Computer\HKEY_CLASSES_ROOT\*\shell\Shortcuter` with a Registry Editor.
 * In order to open the Registry Editor: Press `Windows + R` and type `regedit`, or type "Registry Editor" in the Windows search.
 
 ## Image tutorial
